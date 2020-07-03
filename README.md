@@ -12,7 +12,7 @@ An Open Source ALLINONE_NGY_BOT Telegram RoBot, that can do lot of things.
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NikhilNGY/ALLINONE_NGY_BOT)
 
 #### The Hard Way
 
