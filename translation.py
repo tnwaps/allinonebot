@@ -32,7 +32,7 @@ URL | filename | username | password"""
 
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
 
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "THANKS FOR USING ME . JOIN OUR CHANNEL : @super_botz
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "THANKS FOR USING ME . JOIN OUR CHANNEL : @super_botz."
 
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nPlease rate me if you find me useful. https://t.me/ALLINONE_NGY_BOT?start=ALL_IN_ONE_BOT \nUploaded in {} seconds."
 
