@@ -1,12 +1,8 @@
-## [AnyDLBot](https://telegram.dog/AnyDLBot)
+## [ALLINONE_NGY_BOT](https://telegram.dog/ALLINONE_NGY_BOT)
 ---
 
-An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
+An Open Source ALLINONE_NGY_BOT Telegram RoBot, that can do lot of things.
 
-## Credits, and Thanks to
-
-* [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
-* [Yoily](https://telegram.dog/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
 
 ### Installation
 
