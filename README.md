@@ -8,7 +8,7 @@ An Open Source ALLINONE_NGY_BOT Telegram RoBot, that can do lot of things.
 
 #### The Easiest Way
 
-**upgrade** your subscription for [@AnyDLBot](https://telegram.dog/AnyDLBot) without having to run anything on your own
+**upgrade** your subscription for [ALLINONE_NGY_BOT](https://telegram.dog/ALLINONE_NGY_BOT) without having to run anything on your own
 
 #### The Easy Way
 
@@ -25,7 +25,7 @@ cp sample_config.py config.py
 python bot.py
 ```
 
-- For FeedBack and Suggestions, please feel free to say in [@SpEcHlDe](https://telegram.dog/ThankTelegram)
+- For FeedBack and Suggestions, please feel free to say in [N I K H I L](https://telegram.dog/NGYNY)
 
 #### LICENSE
 - GPLv3
