@@ -1,6 +1,6 @@
 {
-  "name": "AnyDLBot",
-  "description": "Telegram's best Open Source ALL-In-One Multi Purpose RoBot. Create your Fork now.",
+  "name": "ALLINONE_NGY_BOT",
+  "description": "Telegram's best Open Source @ALLINONE_NGY_BOT Multi Purpose RoBot. Create your Fork now.",
   "keywords": [
     "telegram",
     "best",
@@ -40,7 +40,7 @@
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": "7351948 20516707 23122162 500346573"
+      "value": "1171791499 1171354752"
     },
     "DEF_THUMB_NAIL_VID_S": {
       "description": "default thumbnail to be used in the videos. Incase, youtube-dl is unable to find a thumbnail.",
