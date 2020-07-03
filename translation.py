@@ -32,7 +32,7 @@ URL | filename | username | password"""
 
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
 
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "Please rate me if you find me useful. https://t.me/ALLINONE_NGY_BOT?start=ALL_IN_ONE_BOT"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "THANKS FOR USING ME . JOIN OUR CHANNEL : @super_botz
 
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nPlease rate me if you find me useful. https://t.me/ALLINONE_NGY_BOT?start=ALL_IN_ONE_BOT \nUploaded in {} seconds."
 
@@ -56,7 +56,15 @@ URL | filename | username | password"""
 
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
 
-    CURENT_PLAN_DETAILS = """There is no special plan for you... This is the best"""
+    CURENT_PLAN_DETAILS = """Current plan details
+
+--------
+
+Telegram ID: <code>{}</code>
+
+Plan name: <a href='https://t.me/ALLINONE_NGY_BOT/174'>{}</a>
+
+Expires on: {}"""
 
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
 
