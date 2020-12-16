@@ -4,9 +4,9 @@ class Translation(object):
 
 Welcome To Telegram Uploader Bot
 
-☛ MY CREATOR ✰ : @Wizard09
+☛ MY CREATOR ✰ : @tnvip_bot
 
-☛ SUPPORT CHANNEL : @super_botz
+☛ SUPPORT GROUP : @tnmaza_support
 
 ☛ /help For More Details..."""
 
@@ -14,7 +14,7 @@ Welcome To Telegram Uploader Bot
 
     ABS_TEXT = " Please don't be selfish."
 
-    UPGRADE_TEXT = "Contact : @Wizard09 ."
+    UPGRADE_TEXT = "Contact : @tnvip_bot ."
 
     FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
 
@@ -30,15 +30,15 @@ URL | filename | username | password"""
 
     RCHD_BOT_API_LIMIT = "📥 Trying To Upload TG 📥"
 
-    RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
+    RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 2GB due to Telegram API limitations."
 
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "Please rate me if you find me useful. https://t.me/leech_group "
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "Please rate me if you find me useful. @tnvipme "
 
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nPlease rate me if you find me useful. \nUploaded in {} seconds."
 
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
 
-    NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/Wizard09'>@Wizard09</a>"
+    NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/tnvip_bot'>@tnvip_bot</a>"
 
     SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in the video / file."
 
@@ -52,7 +52,7 @@ URL | filename | username | password"""
 
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found🤷."
 
-    NO_VOID_FORMAT_FOUND = "no-one gonna help you\n<b>leech_group</b> said: {}"
+    NO_VOID_FORMAT_FOUND = "no-one gonna help you\n<b>torrentsleech</b> said: {}"
 
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
 
@@ -66,7 +66,7 @@ URL | filename | username | password"""
 
     REPLY_TO_DOC_FOR_RENAME_FILE = "Reply to a Telegram media to /rename with custom thumbnail support"
 
-    AFTER_GET_DL_LINK = "Direct Link <a href='{}'>Generated</a> valid for {} days.\n© @super_botz"
+    AFTER_GET_DL_LINK = "Direct Link <a href='{}'>Generated</a> valid for {} days.\n© @tnvip_bot"
 
     FF_MPEG_RO_BOT_RE_SURRECT_ED = """Syntax: /trim HH:MM:SS [HH:MM:SS]"""
 
@@ -88,7 +88,7 @@ URL | filename | username | password"""
 
     ABUSIVE_USERS = "You are not allowed to use this bot. If you think this is a mistake, please check /me to remove this restriction."
 
-    FF_MPEG_RO_BOT_AD_VER_TISE_MENT = "https://telegram.dog/Tg2renamebot"
+    FF_MPEG_RO_BOT_AD_VER_TISE_MENT = "https://telegram.dog/urlstofile_bot"
 
     EXTRACT_ZIP_INTRO_ONE = "Send a compressed file first, Then reply /unzip command to the file."
 
@@ -96,7 +96,7 @@ URL | filename | username | password"""
 
     UNZIP_SUPPORTED_EXTENSIONS = ("zip", "rar")
 
-    EXTRACT_ZIP_ERRS_OCCURED = "Sorry. Errors occurred while processing compressed file. Please check everything again twice, and if the issue persists, report this to <a href='https://telegram.dog/Wizard09'>@Wizard09</a>"
+    EXTRACT_ZIP_ERRS_OCCURED = "Sorry. Errors occurred while processing compressed file. Please check everything again twice, and if the issue persists, report this to <a href='https://telegram.dog/tnvip_bot'>@tnvip_bot</a>"
 
     EXTRACT_ZIP_STEP_TWO = """Select file_name to upload from the below options.
 
